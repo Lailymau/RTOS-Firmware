@@ -14,7 +14,7 @@
 ## ✨ Features
 
 - ⏲ **Task Scheduling**: Scheduling various tasks with RTOS.
-- 💡 **Multitasking**: Running green and red LED tasks in parallel.
+- 💡 **Multitasking**: Running various tasks, such as ADC, UART, OLED, and Button.
 - 🔄 **RTOS Integration**: Using preemptive multitasking and delay management features.
 
 ## 🛠 Installation
@@ -37,9 +37,10 @@ To run this project, follow these steps:
 ## 🚀 Usage
 
 Once flashed, the RTOS tasks will run according to the schedule. The current tasks include:
-- FlashGreenLedTask: Task to control the green LED.
-- FlashRedLedTask: Task to control the red LED.
-- New tasks can be added or modified in the Tasks.c file.
+- ADC Task: Reading voltage values from the ADC input.
+- OLED Task: Displaying measurement results on the OLED screen.
+- UART Task: Managing communication and user input through the UART interface.
+- Button Task: Monitoring the status of a physical button for specific functions.
 
 ## 📂 Folder Structure
     ├── Core
