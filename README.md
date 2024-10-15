@@ -35,10 +35,7 @@ To run this project, follow these steps:
 - FreeRTOS: The RTOS middleware used.
 
 ## 📂 Node Diagram
-   Led -> UART <- ADC
-    |      ▲
-    |      |
-    ---->Button
+   ![(Inglés)](https://github.com/user-attachments/assets/6a18f95f-b7e8-4788-b45a-c2e8b71e8d57)
 
 ## 📷 Hardware Image
 
@@ -47,11 +44,9 @@ To run this project, follow these steps:
 ## 🎥 Demo Videos
 https://github.com/user-attachments/assets/51e08e1e-01a6-40bb-8aca-a061c5fe65aa
 
-## 📄 Lisensi
-
+## 📄 License
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/Lailymau/RTOS-Making-Firmware/blob/main/LICENSE) file for more details.
 
-## 📬 Kontak
-
+## 📬 Contact
 Developed by LailyMau. If you have any further questions, feel free to contact me via [GitHub](https://github.com/Lailymau).
 <p align="center">⭐ Don't forget to star this project if you found it useful! ⭐</p>
