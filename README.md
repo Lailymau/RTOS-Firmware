@@ -41,15 +41,15 @@ To run this project, follow these steps:
     ├── Drivers            # STM32 HAL Drivers
     ├── Middlewares        # FreeRTOS Middleware
     ├── .gitignore         # Git ignore file
-    ├── README.md          # Dokumentasi proyek
-    └── STM32CubeIDE       # File konfigurasi STM32CubeIDE
+    ├── README.md          # Project documentation
+    └── STM32CubeIDE       # Configuration file of STM32CubeIDE
 
 ## 📷 Hardware Image
 
 ![demo](https://github.com/user-attachments/assets/0f4ac951-b498-43dd-a121-00fb6f114ffc)
 
 ## 🎥 Demo Videos
-![Contoh Video]
+https://github.com/user-attachments/assets/51e08e1e-01a6-40bb-8aca-a061c5fe65aa
 
 ## 📄 Lisensi
 
