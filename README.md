@@ -35,14 +35,10 @@ To run this project, follow these steps:
 - FreeRTOS: The RTOS middleware used.
 
 ## 📂 Node Diagram
-    ├── Core
-    │   ├── Inc            # Header files
-    │   ├── Src            # Source code files
-    ├── Drivers            # STM32 HAL Drivers
-    ├── Middlewares        # FreeRTOS Middleware
-    ├── .gitignore         # Git ignore file
-    ├── README.md          # Project documentation
-    └── STM32CubeIDE       # Configuration file of STM32CubeIDE
+   Led -> UART <- ADC
+    |      ▲
+    |      |
+    ---->Button
 
 ## 📷 Hardware Image
 
