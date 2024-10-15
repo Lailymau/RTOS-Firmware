@@ -53,7 +53,7 @@ Once flashed, the RTOS tasks will run according to the schedule. The current tas
 
 ## 📄 Lisensi
 
-This project is licensed under the MIT License. See the [LICENSE]([https://github.com/Lailymau/RTOS-Making-Firmware/LICENSE](https://github.com/Lailymau/RTOS-Making-Firmware/blob/main/LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Lailymau/RTOS-Making-Firmware/blob/main/LICENSE) file for more details.
 
 ## 📬 Kontak
 
