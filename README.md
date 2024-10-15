@@ -28,21 +28,13 @@ To run this project, follow these steps:
 3. Configure the hardware according to the STM32 board you are using.
 4. Build the project and flash the firmware to your STM32 device.
 
-## Prerequisites
+## 📝 Prerequisites
 
 - STM32CubeIDE: IDE for STM32 development.
 - STM32CubeMX: For configuring STM32 peripherals and FreeRTOS.
 - FreeRTOS: The RTOS middleware used.
 
-## 🚀 Usage
-
-Once flashed, the RTOS tasks will run according to the schedule. The current tasks include:
-- ADC Task: Reading voltage values from the ADC input.
-- OLED Task: Displaying measurement results on the OLED screen.
-- UART Task: Managing communication and user input through the UART interface.
-- Button Task: Monitoring the status of a physical button for specific functions.
-
-## 📂 Folder Structure
+## 📂 Node Diagram
     ├── Core
     │   ├── Inc            # Header files
     │   ├── Src            # Source code files
@@ -51,6 +43,13 @@ Once flashed, the RTOS tasks will run according to the schedule. The current tas
     ├── .gitignore         # Git ignore file
     ├── README.md          # Dokumentasi proyek
     └── STM32CubeIDE       # File konfigurasi STM32CubeIDE
+
+## 📷 Hardware Image
+
+![Contoh Foto](https://github.com/Lailymau/demo-rtos/blob/main/demo.jpg?raw=true)
+
+## 🎥 Demo Videos
+![Contoh Video]
 
 ## 📄 Lisensi
 
