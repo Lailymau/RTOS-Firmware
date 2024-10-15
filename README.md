@@ -6,42 +6,42 @@
 </p>
 
 <p align="center">
-  Proyek ini adalah implementasi RTOS pada STM32 untuk mengelola multitasking dan kontrol firmware menggunakan STM32CubeIDE dan FreeRTOS. 🚀
+  This project is an RTOS implementation on STM32 to manage multitasking and firmware control using STM32CubeIDE and FreeRTOS. 🚀
 </p>
 
 ---
 
-## ✨ Fitur
+## ✨ Features
 
-- ⏲ **Task Scheduling**: Penjadwalan berbagai task dengan RTOS.
-- 💡 **Multitasking**: Menjalankan task LED hijau dan merah secara paralel.
-- 🔄 **RTOS Integration**: Penggunaan fitur preemptive multitasking dan delay management.
+- ⏲ **Task Scheduling**: Scheduling various tasks with RTOS.
+- 💡 **Multitasking**: Running green and red LED tasks in parallel.
+- 🔄 **RTOS Integration**: Using preemptive multitasking and delay management features.
 
-## 🛠 Instalasi
+## 🛠 Installation
 
-Untuk menjalankan proyek ini, ikuti langkah-langkah berikut:
+To run this project, follow these steps:
 
-1. Clone repositori ini:
+1. Clone this repository:
    ```bash
    git clone https://github.com/Lailymau/RTOS-Making-Firmware.git
-2. Buka proyek di STM32CubeIDE.
-3. Konfigurasi perangkat keras sesuai dengan board STM32 yang digunakan.
-4. Build proyek dan flash firmware ke perangkat STM32 Anda.
+2. Open the project in STM32CubeIDE.
+3. Configure the hardware according to the STM32 board you are using.
+4. Build the project and flash the firmware to your STM32 device.
 
-## Prasyarat
+## Prerequisites
 
-- STM32CubeIDE: IDE untuk pengembangan dengan STM32.
-- STM32CubeMX: Untuk konfigurasi peripheral STM32 dan FreeRTOS.
-- FreeRTOS: Middleware RTOS yang digunakan
+- STM32CubeIDE: IDE for STM32 development.
+- STM32CubeMX: For configuring STM32 peripherals and FreeRTOS.
+- FreeRTOS: The RTOS middleware used.
 
-## 🚀 Penggunaan
+## 🚀 Usage
 
-Setelah di-flash, task RTOS akan berjalan sesuai dengan jadwal. Task yang ada saat ini meliputi:
-- FlashGreenLedTask: Task untuk mengontrol LED hijau.
-- FlashRedLedTask: Task untuk mengontrol LED merah.
-- Task baru dapat ditambahkan atau diatur di file Tasks.c.
+Once flashed, the RTOS tasks will run according to the schedule. The current tasks include:
+- FlashGreenLedTask: Task to control the green LED.
+- FlashRedLedTask: Task to control the red LED.
+- New tasks can be added or modified in the Tasks.c file.
 
-## 📂 Struktur Folder
+## 📂 Folder Structure
 
     ```bash
     ├── Core
@@ -55,9 +55,9 @@ Setelah di-flash, task RTOS akan berjalan sesuai dengan jadwal. Task yang ada sa
 
 ## 📄 Lisensi
 
-Proyek ini dilisensikan di bawah MIT License. Lihat file LICENSE untuk informasi lebih lanjut.
+This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## 📬 Kontak
 
-Dikembangkan oleh **LailyMau**. Jika ada pertanyaan lebih lanjut, hubungi saya melalui [GitHub](https://github.com/Lailymau).
-<p align="center">⭐ Jangan lupa beri bintang (star) proyek ini jika bermanfaat! ⭐</p>
+Developed by Laily Mau. If you have any further questions, feel free to contact me via GitHub.(https://github.com/Lailymau).
+<p align="center">⭐ Don't forget to star this project if you found it useful! ⭐</p>
