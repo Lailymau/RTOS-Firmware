@@ -59,5 +59,5 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ## 📬 Kontak
 
-Developed by Laily Mau. If you have any further questions, feel free to contact me via GitHub.(https://github.com/Lailymau).
+Developed by Laily Mau. If you have any further questions, feel free to contact me via [GitHub](https://github.com/Lailymau).
 <p align="center">⭐ Don't forget to star this project if you found it useful! ⭐</p>
