@@ -46,7 +46,7 @@ To run this project, follow these steps:
 
 ## 📷 Hardware Image
 
-![Contoh Foto](https://github.com/Lailymau/demo-rtos/blob/main/demo.jpg?raw=true)
+![demo](https://github.com/user-attachments/assets/0f4ac951-b498-43dd-a121-00fb6f114ffc)
 
 ## 🎥 Demo Videos
 ![Contoh Video]
