@@ -35,10 +35,9 @@ To run this project, follow these steps:
 - FreeRTOS: The RTOS middleware used.
 
 ## 📂 Node Diagram
-   ![(Inglés)](https://github.com/user-attachments/assets/6a18f95f-b7e8-4788-b45a-c2e8b71e8d57)
+![diagram](https://github.com/user-attachments/assets/2fd314be-a0c8-4836-aa4c-abacbba88fa2)
 
 ## 📷 Hardware Image
-
 ![demo](https://github.com/user-attachments/assets/0f4ac951-b498-43dd-a121-00fb6f114ffc)
 
 ## 🎥 Demo Videos
